@@ -1,4 +1,6 @@
-* 899a666 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* a746a89 (HEAD -> main, origin/main, origin/HEAD) checkpoint2 image Added
+* 4d72c3b docs: Add final project artifacts
+* 899a666 docs: Add changelog
 | * 4dd05c4 (origin/feature/another-feature) feat: Add test feature
 |/  
 * 26e7c0d (tag: v1.0.0) docs: Update README
